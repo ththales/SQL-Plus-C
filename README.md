@@ -35,5 +35,3 @@ Exemplo de instalação no Linux (Debian/Ubuntu):
 ```bash
 sudo apt update
 sudo apt install build-essential libpq-dev postgresql postgresql-contrib
-
----
