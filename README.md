@@ -1,4 +1,4 @@
-# DBManager - Sistema de Gerenciamento de Unidades de Biblioteca
+# SQL Plus C - Sistema de Gerenciamento de Unidades de Biblioteca
 
 DBManager é um sistema desenvolvido em **C** que permite gerenciar unidades de atendimento de uma biblioteca, com conexão a um banco de dados **PostgreSQL**. O programa possibilita incluir, consultar, alterar e excluir informações de unidades de atendimento, garantindo controle eficiente das bibliotecas.
 
